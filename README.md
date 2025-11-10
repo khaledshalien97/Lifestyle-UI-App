@@ -5,7 +5,7 @@ Discover the elegance of simplicity with this Lifestyle Sale App. The app's mode
 
 <p float="left">
   <img src="assets/screenshot/screenshot_1.png/" width="250" />
-   <img src="assets/screenshot/screenshot_4.png/" width="250" />
+   <img src="assets/screenshot/screenshot_2.png/" width="250" />
 
 </p>
 
